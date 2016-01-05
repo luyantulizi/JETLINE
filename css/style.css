@@ -38,6 +38,38 @@ ul{
 label{
 	margin:0;
 }
+.weixin{
+  position:relative;
+  height:180px;
+  background-color:#ccc;
+  width:100%;
+}
+.footus{
+  width:30%;
+  display:block;
+  height:100px;
+  position:absolute;
+  top:50px;
+  left:150px;
+  font-size:18px;
+}
+.footContent{
+  width:40%;
+  display:block;
+  height:100px;
+  position:absolute;
+  left:25%;
+  top:50px;
+  color:#504f47;
+}
+.weixinImg{
+  width:100px;
+  height:100px;
+  display:block;
+  position:absolute;
+  right:200px;
+  top:50px;
+}
 /*--banner-slider--*/
 .nbs-flexisel-item{
   height:200px;;
