@@ -49,6 +49,18 @@ background-size:cover;
 min-height: 720px;
 }
 
+#teampic{
+  display:block;
+  text-align:center;
+  border:#fff;
+  width:100%;
+}
+.teamphoto{
+  width:100%;
+}
+.neswpic{
+  width:100%;
+}
 .newimg{
   width:255px;
   height:217px;
@@ -765,7 +777,7 @@ i.clock{
 	color:#404040;
 }
 .stats-info {
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
     padding: 2em 2em;
     border: 5px solid rgba(238, 238, 238, 0.51);
@@ -1535,8 +1547,12 @@ p.footer-one-w3ls {
 /*-- //to-top --*/
 /*--responsive--*/
 @media(max-width:1440px){
+
+  #logo{
+    width:190px;
+  }
 	.banner-text h3 {
-		width: 70%;
+		width: 100%;
 	}
 	.banner {
 
@@ -1549,6 +1565,10 @@ p.footer-one-w3ls {
 	}
 }
 @media(max-width:1366px){
+
+  #logo{
+    width:190px;
+  }
 	.banner {
 		min-height: 620px;
 	}
@@ -1573,6 +1593,11 @@ p.footer-one-w3ls {
 	}
 }
 @media(max-width:1280px){
+
+  #logo{
+    width:165px;
+  }
+
 	.banner {
 		min-height: 585px;
 	}
@@ -1639,6 +1664,10 @@ p.footer-one-w3ls {
 	}
 }
 @media(max-width:1080px){
+
+  #logo{
+    width:155px;
+  }
 	.navbar-default .navbar-nav > li > a {
 		padding: 16.3px 14.25px;
 		font-size: 12px;
@@ -1871,6 +1900,9 @@ p.footer-one-w3ls {
 	}
 }
 @media(max-width:991px){
+  #logo{
+    width:155px;
+  }
 	.navbar-default .navbar-brand {
 		font-size: 21px;
 		background: url(../images/logo.png) no-repeat 0px 1px;
@@ -1973,6 +2005,9 @@ p.footer-one-w3ls {
 	}
 }
 @media(max-width:900px){
+  #logo{
+    width:195px;
+  }
 	.contact-bnr-w3-agile ul li {
 		padding: 7px 16px;
 		display: block;
@@ -2123,6 +2158,9 @@ p.footer-one-w3ls {
 	}
 }
 @media(max-width:768px){
+  #logo{
+    width:195px;
+  }
 	.navbar-default .navbar-brand {
 		font-size: 20px;
 		padding-left: 25px;
