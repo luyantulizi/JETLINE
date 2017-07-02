@@ -500,7 +500,7 @@ a.callbacks_nav.callbacks3_nav.next{
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 4px;
-    width: 60%;
+    width: 100%;
     margin: 0 auto;
     line-height: 45px;
 }
@@ -1573,7 +1573,7 @@ p.footer-one-w3ls {
 		min-height: 620px;
 	}
 	.banner-text h3 {
-		width: 79%;
+		width: 100%;
 	}
 	.more-button a {
 		margin-top: 3.5em;
@@ -1866,7 +1866,7 @@ p.footer-one-w3ls {
 	.banner-text h3 {
 		font-size: 26px;
 		line-height: 36px;
-		 width: 74%;
+		 width: 100%;
 	}
 	.more-button a {
 		padding: 7px 30px;
@@ -2029,7 +2029,7 @@ p.footer-one-w3ls {
 	.banner-text h3 {
 		font-size: 24px;
 		line-height: 35px;
-		width: 74%;
+		width: 100%;
 		letter-spacing: 2px;
 	}
 	.banner {
@@ -2175,7 +2175,7 @@ p.footer-one-w3ls {
 	.banner-text h3 {
 		font-size: 20px;
 		line-height: 31px;
-		width: 69%;
+		width: 100%;
 	}
 	.banner-text {
 		width: 65%;
@@ -2515,7 +2515,7 @@ p.footer-one-w3ls {
 	.banner-text h3 {
 		font-size: 16px;
 		line-height: 23px;
-		width: 67%;
+		width: 100%;
 	}
 	.more-button a {
 		margin-top: 1.5em;
@@ -2541,7 +2541,7 @@ p.footer-one-w3ls {
 }
 @media(max-width:480px){
 	.banner-text h3 {
-		width: 77%;
+		width: 100%;
 	}
 	.callbacks_tabs {
 		left: 34.3%;
@@ -2615,7 +2615,7 @@ p.footer-one-w3ls {
 }
 @media(max-width:414px){
 	.banner-text h3 {
-		width: 79%;
+		width: 100%;
 		font-size: 14px;
 		line-height: 21px;
 	}
@@ -2696,7 +2696,7 @@ p.footer-one-w3ls {
 }
 @media(max-width:384px){
 	.banner-text h3 {
-		width: 86%;
+		width: 100%;
 	}
 	a.callbacks_nav.callbacks1_nav.prev {
 		left: 2.2%;
@@ -2757,7 +2757,7 @@ p.footer-one-w3ls {
 }
 @media(max-width:375px){
 	.banner-text h3 {
-		width: 88%;
+		width: 100%;
 	}
 	.team-main {
 		width: 80%;
