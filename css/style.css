@@ -39,6 +39,9 @@ label{
 	margin:0;
 }
 /*--banner-slider--*/
+.nbs-flexisel-item{
+  height:200px;;
+}
 .banner{
 background: url(../images/bann1.jpg) no-repeat 0px 0px;
 background-size:cover;
@@ -1198,11 +1201,10 @@ figure img {
     background:#002663 url(../images/themes1.png) no-repeat 11px 11px;
 }
 .laptop {
-    background: #002663;
     padding: 2em 2em;
     /* border: 1px solid #ff9900; */
     margin: 0 15px;
-    height:427px;
+    height:200px;
 }
 .team-left{
 	padding:0;
