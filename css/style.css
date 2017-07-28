@@ -51,7 +51,10 @@ background-size:cover;
 -moz-background-size: cover;
 min-height: 720px;
 }
-
+#employ{
+    background: url(../images/employ2.jpg) no-repeat 0px 0px;
+        padding-bottom: 50px;
+}
 .honor-grid > img{
   width:100%;
 }
@@ -63,13 +66,17 @@ min-height: 720px;
   font-weight:bold;
 }
 
-.honor-head{
-  color:#fff!important;
-}
 #honors{
-  background-color:#002663;
   width:100%;:
   min-height: 400px;
+}
+.honorcontainer{
+  width:90%;
+  height:500px;
+  border-radius:20px;
+  margin:0 auto;
+  padding-top:50px;
+  background-color:#002663;
 }
 
 #teampic{
@@ -83,6 +90,7 @@ min-height: 720px;
 }
 .neswpic{
   width:100%;
+  opacity:0.8;
 }
 .newimg{
   width:255px;
@@ -91,7 +99,16 @@ min-height: 720px;
 .newspanel{
   width:100%;
   height:450px;
-
+  background-color: transparent;
+}
+.employheader{
+  color:#fff!important;
+}
+.employtitle {
+  color: #777!important;
+  background-color:#fff!important;
+  opacity:0.8!important;
+  border-color: #fff!important;
 }
 .navbar-header h1 {
     margin: 0;
@@ -99,6 +116,10 @@ min-height: 720px;
     margin-top: 1px;
     font-size: 2em;
 	font-family: 'Roboto', sans-serif;
+}
+.employprimary{
+  border-color:#fff;
+  color:#fff;
 }
 /* Bounce To Bottom */
 .hvr-bounce-to-bottom {
